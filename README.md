@@ -91,7 +91,7 @@ npm start
 ## 🙌 Author
 
 **Manish Dange**
-Frontend Developer (React + Django Learner)
+Full Stack Developer (React + Django)
 
 ---
 
