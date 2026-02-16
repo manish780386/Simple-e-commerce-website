@@ -1,20 +1,103 @@
-<<<<<<< HEAD
-# React + Vite
+# 🛒 ApnaShop – Simple React E‑Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ApnaShop is a basic e‑commerce web application built using **React JS**.
+This project demonstrates product listing, cart management, and Cash on Delivery (COD) checkout using API data.
 
-Currently, two official plugins are available:
+It is a beginner‑friendly project created to understand how an online shopping website works.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✅ Product Listing using API
+✅ Add to Cart / Remove from Cart
+✅ Quantity Update in Cart
+✅ Cash on Delivery Payment
+✅ Order Summary Page
+✅ Responsive UI Design
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Simple-e-commerce-website
->>>>>>> 73640421101d889f09d45d041e54f0e409483491
+## 🧰 Tech Stack
+
+Frontend:
+
+* React JS
+* HTML5
+* CSS3
+* JavaScript (ES6)
+
+API:
+
+* Fake Store API / Custom JSON API
+
+Payment Mode:
+
+* Cash on Delivery (COD)
+
+---
+
+
+
+## ⚙️ Installation & Setup
+
+1️⃣ Clone the repository
+
+```
+git clone <respo>
+```
+
+2️⃣ Go to project folder
+
+```
+cd <floder name>
+```
+
+3️⃣ Install dependencies
+
+```
+npm install
+```
+
+4️⃣ Run the project
+
+```
+npm start
+```
+
+
+## 🛍️ How It Works
+
+1. Products are fetched from API.
+2. User can add products to cart.
+3. Cart shows total price.
+4. User places order using Cash on Delivery.
+5. Order confirmation message is shown.
+
+---
+
+
+
+## 🎯 Future Improvements
+
+* Online Payment Integration (Razorpay / Stripe)
+* User Login & Signup
+* Order History Page
+* Admin Panel
+* Search & Filter Products
+
+---
+
+## 🙌 Author
+
+**Manish Dange**
+Frontend Developer (React + Django Learner)
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub and share with friends.
+
+---
+
